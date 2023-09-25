@@ -1,0 +1,1050 @@
+
+[Date: 2023-08-12 04:19:01]
+[Request]: {
+    "email": "craccro@hotmail.com",
+    "firstName": "omar",
+    "lastName": "moramii",
+    "password": null,
+    "ip": "105.154.230.7",
+    "phone": "0657515161",
+    "areaCode": "+212",
+    "custom1": "2saci568svn",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10004,
+            "message": "Enter password. (#9ikuh)"
+        },
+        {
+            "code": 10009,
+            "message": "Password must be at least 6 characters! (#p436)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:19:01",
+        "httpCode": 400,
+        "executionTime": 0.14680218696594238
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:19:01]
+[Request]: {
+    "email": "craccro@hotmail.com",
+    "firstName": "omar",
+    "lastName": "moramii",
+    "password": null,
+    "ip": "105.154.230.7",
+    "phone": "0657515161",
+    "areaCode": "+212",
+    "custom1": "2saci568svn",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10004,
+            "message": "Enter password. (#9ikuh)"
+        },
+        {
+            "code": 10009,
+            "message": "Password must be at least 6 characters! (#p436)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:19:01",
+        "httpCode": 400,
+        "executionTime": 0.17085886001586914
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:19:47]
+[Request]: {
+    "email": "craccro@hotmail.com",
+    "firstName": "omar",
+    "lastName": "moramii",
+    "password": null,
+    "ip": "105.154.230.7",
+    "phone": "0657-515161",
+    "areaCode": "+212",
+    "custom1": "2saci568svo",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10004,
+            "message": "Enter password. (#9ikuh)"
+        },
+        {
+            "code": 10009,
+            "message": "Password must be at least 6 characters! (#p436)"
+        },
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:19:47",
+        "httpCode": 400,
+        "executionTime": 0.1057429313659668
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:22:00]
+[Request]: {
+    "email": "craccro@hotmail.com",
+    "firstName": "omar",
+    "lastName": "moramii",
+    "password": null,
+    "ip": "105.154.230.7",
+    "phone": "0657-515161",
+    "areaCode": "+212",
+    "custom1": "2saci568svq",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10004,
+            "message": "Enter password. (#9ikuh)"
+        },
+        {
+            "code": 10009,
+            "message": "Password must be at least 6 characters! (#p436)"
+        },
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:22:00",
+        "httpCode": 400,
+        "executionTime": 0.13742303848266602
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:22:21]
+[Request]: {
+    "email": "craccro@hotmail.com",
+    "firstName": "omar",
+    "lastName": "moramii",
+    "password": null,
+    "ip": "105.154.230.7",
+    "phone": "0657-515161",
+    "areaCode": "+212",
+    "custom1": "2saci568svr",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10004,
+            "message": "Enter password. (#9ikuh)"
+        },
+        {
+            "code": 10009,
+            "message": "Password must be at least 6 characters! (#p436)"
+        },
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:22:21",
+        "httpCode": 400,
+        "executionTime": 0.10428404808044434
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:22:34]
+[Request]: {
+    "email": "craccro@hotmail.com",
+    "firstName": "omar",
+    "lastName": "moramii",
+    "password": null,
+    "ip": "105.154.230.7",
+    "phone": "0657-515161",
+    "areaCode": "+212",
+    "custom1": "2saci568svs",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "message": "You have reached 3 attempts for registration in the last 5 minutes",
+    "server": {
+        "date": "2023-08-11 20:22:34",
+        "httpCode": 400,
+        "executionTime": 0.04821491241455078
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:23:19]
+[Request]: {
+    "email": "craccro1@hotmail.com",
+    "firstName": "omarr",
+    "lastName": "moramiie",
+    "password": null,
+    "ip": "105.154.230.7",
+    "phone": "0657-515190",
+    "areaCode": "+212",
+    "custom1": "2saci568svu",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10004,
+            "message": "Enter password. (#9ikuh)"
+        },
+        {
+            "code": 10009,
+            "message": "Password must be at least 6 characters! (#p436)"
+        },
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:23:19",
+        "httpCode": 400,
+        "executionTime": 0.11148595809936523
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:24:03]
+[Request]: {
+    "email": "craccro1@hotmail.com",
+    "firstName": "omarr",
+    "lastName": "moramiie",
+    "password": "Poker123@@",
+    "ip": "105.154.230.7",
+    "phone": "0657-515190",
+    "areaCode": "+212",
+    "custom1": "2saci568svv",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10009,
+            "message": "Password must contain only letters and numbers. (#52hy)"
+        },
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:24:03",
+        "httpCode": 400,
+        "executionTime": 0.19564509391784668
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:24:20]
+[Request]: {
+    "email": "craccro1@hotmail.com",
+    "firstName": "omarr",
+    "lastName": "moramiie",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-515190",
+    "areaCode": "+212",
+    "custom1": "2saci568t00",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:24:20",
+        "httpCode": 400,
+        "executionTime": 0.10976409912109375
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:24:35]
+[Request]: {
+    "email": "craccro1@hotmail.com",
+    "firstName": "omarr",
+    "lastName": "moramiie",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657515190",
+    "areaCode": "+212",
+    "custom1": "2saci568t01",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 30000,
+    "message": "Registration errors",
+    "errors": [
+        {
+            "code": 30020,
+            "message": "We cannot register you at this time. (#7yuhnq)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:24:35",
+        "httpCode": 400,
+        "executionTime": 0.6007001399993896
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:26:13]
+[Request]: {
+    "email": "craccro1@hotmail.com",
+    "firstName": "omarr",
+    "lastName": "moramiie",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657515190",
+    "areaCode": "+212",
+    "custom1": "2saci568t02",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "DE",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 30000,
+    "message": "Registration errors",
+    "errors": [
+        {
+            "code": 30020,
+            "message": "We cannot register you at this time. (#7yuhnq)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:26:13",
+        "httpCode": 400,
+        "executionTime": 0.5158228874206543
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:44:25]
+[Request]: {
+    "email": "craccr4@hotmail.com",
+    "firstName": "omarr",
+    "lastName": "moramiie",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-515191",
+    "areaCode": "+212",
+    "custom1": "2saci568t0l",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:44:25",
+        "httpCode": 400,
+        "executionTime": 0.19260883331298828
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:47:26]
+[Request]: {
+    "email": "craccr4@hotmail.com",
+    "firstName": "omarr",
+    "lastName": "moramiie",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "657515191",
+    "areaCode": "+212",
+    "custom1": "2saci568t0m",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "offerName": null
+}
+[Response]: {
+    "code": 30000,
+    "message": "Registration errors",
+    "errors": [
+        {
+            "code": 30020,
+            "message": "We cannot register you at this time. (#7yuhnq)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:47:26",
+        "httpCode": 400,
+        "executionTime": 0.5670950412750244
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 04:48:49]
+[Request]: {
+    "email": "craccr4@hotmail.com",
+    "firstName": "omarr",
+    "lastName": "moramiie",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "657525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t0s",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": null
+}
+[Response]: {
+    "code": 30000,
+    "message": "Registration errors",
+    "errors": [
+        {
+            "code": 30020,
+            "message": "We cannot register you at this time. (#7yuhnq)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 20:48:49",
+        "httpCode": 400,
+        "executionTime": 0.5681638717651367
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:10:43]
+[Request]: {
+    "email": "testo79@gmail.com",
+    "firstName": "testo",
+    "lastName": "morami",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "657525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t1g",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": null
+}
+[Response]: {
+    "code": 30000,
+    "message": "Registration errors",
+    "errors": [
+        {
+            "code": 30020,
+            "message": "We cannot register you at this time. (#7yuhnq)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:10:43",
+        "httpCode": 400,
+        "executionTime": 0.598160982131958
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:12:37]
+[Request]: {
+    "email": "testo79@gmail.com",
+    "firstName": "testo",
+    "lastName": "morami",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "657525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t1h",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": null
+}
+[Response]: {
+    "code": 30000,
+    "message": "Registration errors",
+    "errors": [
+        {
+            "code": 30020,
+            "message": "We cannot register you at this time. (#7yuhnq)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:12:37",
+        "httpCode": 400,
+        "executionTime": 0.5443580150604248
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:13:48]
+[Request]: {
+    "email": "testo79@gmail.com",
+    "firstName": "testo",
+    "lastName": "morami",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t1i",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:13:48",
+        "httpCode": 400,
+        "executionTime": 0.1438281536102295
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:38:37]
+[Request]: {
+    "email": "Kokosad@gmail.com",
+    "firstName": "Omar",
+    "lastName": "Rassl9lwa",
+    "password": "Poker123",
+    "ip": "",
+    "phone": "661165511",
+    "areaCode": "+212",
+    "custom1": "2saci568t2b",
+    "custom2": "",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 20000,
+    "message": "Traffic errors",
+    "errors": [
+        {
+            "code": 20001,
+            "message": "Your registration was unsuccessful. A user with same IP address is already registered. Please try again later. (#4vgbt)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:38:37",
+        "httpCode": 400,
+        "executionTime": 0.2643301486968994
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:43:16]
+[Request]: {
+    "email": "cririazierz@gmail.com",
+    "firstName": "slkkds",
+    "lastName": "dsjkdsjkds",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "657525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t2f",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 30000,
+    "message": "Registration errors",
+    "errors": [
+        {
+            "code": 30020,
+            "message": "We cannot register you at this time. (#7yuhnq)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:43:16",
+        "httpCode": 400,
+        "executionTime": 0.7176909446716309
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:44:27]
+[Request]: {
+    "email": "Kokosad@gmail.com",
+    "firstName": "Omar",
+    "lastName": "Rassl9lwa",
+    "password": "Poker123",
+    "ip": "",
+    "phone": "661165511",
+    "areaCode": "+212",
+    "custom1": "2saci568t2h",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 20000,
+    "message": "Traffic errors",
+    "errors": [
+        {
+            "code": 20001,
+            "message": "Your registration was unsuccessful. A user with same IP address is already registered. Please try again later. (#4vgbt)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:44:27",
+        "httpCode": 400,
+        "executionTime": 0.23127007484436035
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:49:47]
+[Request]: {
+    "email": "cririazierz@gmail.com",
+    "firstName": "slkkds",
+    "lastName": "dsjkdsjkds",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t2j",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:49:47",
+        "httpCode": 400,
+        "executionTime": 0.14895296096801758
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:52:15]
+[Request]: {
+    "email": "cririazierz@gmail.com",
+    "firstName": "slkkds",
+    "lastName": "dsjkdsjkds",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t2m",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:52:15",
+        "httpCode": 400,
+        "executionTime": 0.1446399688720703
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:52:20]
+[Request]: {
+    "email": "cririazierz@gmail.com",
+    "firstName": "slkkds",
+    "lastName": "dsjkdsjkds",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t2n",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:52:20",
+        "httpCode": 400,
+        "executionTime": 0.11467289924621582
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:52:48]
+[Request]: {
+    "email": "cririazierz@gmail.com",
+    "firstName": "slkkds",
+    "lastName": "dsjkdsjkds",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t2o",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "message": "You have reached 3 attempts for registration in the last 5 minutes",
+    "server": {
+        "date": "2023-08-11 21:52:47",
+        "httpCode": 400,
+        "executionTime": 0.05098891258239746
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:58:29]
+[Request]: {
+    "email": "testo79@gmail.com",
+    "firstName": "testo",
+    "lastName": "morami",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t2t",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:58:29",
+        "httpCode": 400,
+        "executionTime": 0.17587900161743164
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 05:58:50]
+[Request]: {
+    "email": "testo79@gmail.com",
+    "firstName": "testo",
+    "lastName": "morami",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t2u",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 21:58:50",
+        "httpCode": 400,
+        "executionTime": 0.1169278621673584
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 06:00:31]
+[Request]: {
+    "email": "craccro@gmail.com",
+    "firstName": "dsdjds",
+    "lastName": "dskdjksd",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t30",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 30000,
+    "message": "Registration errors",
+    "errors": [
+        {
+            "code": 30020,
+            "message": "We cannot register you at this time. (#7yuhnq)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 22:00:31",
+        "httpCode": 400,
+        "executionTime": 0.6459429264068604
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 06:01:51]
+[Request]: {
+    "email": "craccro@gmail.com",
+    "firstName": "dsdjds",
+    "lastName": "dskdjksd",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "0657-525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t31",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 10000,
+    "message": "Validation errors",
+    "errors": [
+        {
+            "code": 10011,
+            "message": "Phone number must be digits only. (#6tghm)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 22:01:51",
+        "httpCode": 400,
+        "executionTime": 0.1009378433227539
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 06:02:22]
+[Request]: {
+    "email": "craccro@gmail.com",
+    "firstName": "dsdjds",
+    "lastName": "dskdjksd",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "65525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t32",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 30000,
+    "message": "Registration errors",
+    "errors": [
+        {
+            "code": 30018,
+            "message": "Your email is already registered. (#3wqas), Try a valid phone number. (#0x3v)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 22:02:22",
+        "httpCode": 400,
+        "executionTime": 0.4866211414337158
+    }
+}
+[HTTP Code]: 400
+
+[Date: 2023-08-12 06:02:35]
+[Request]: {
+    "email": "craccro@gmail.com",
+    "firstName": "dsdjds",
+    "lastName": "dskdjksd",
+    "password": "Poker123",
+    "ip": "105.154.230.7",
+    "phone": "65525253",
+    "areaCode": "+212",
+    "custom1": "2saci568t33",
+    "custom2": "1",
+    "custom3": "ImmediateEdge",
+    "custom4": "GOOGLE",
+    "custom5": "MA",
+    "comment": null,
+    "brandName": "ImmediateEdge"
+}
+[Response]: {
+    "code": 20000,
+    "message": "Traffic errors",
+    "errors": [
+        {
+            "code": 20004,
+            "message": "Too many requests in short period of time with same data. (#6tgbh)"
+        }
+    ],
+    "server": {
+        "date": "2023-08-11 22:02:35",
+        "httpCode": 400,
+        "executionTime": 0.1654510498046875
+    }
+}
+[HTTP Code]: 400
